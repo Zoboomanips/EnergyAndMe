@@ -1,6 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\Jordan\\AndroidStudioProjects\\EnergyAndMe\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
-        "source": "C:\\Users\\Jordan\\.android\\build-cache\\6f23de812aad100cf13187f3c0c06ec7d214ace6\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+        "merged": "/home/vinay/Documents/EnergyAndMe/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/home/vinay/.android/build-cache/00fa7ce790e51f06b390377c9b56d6396c6dac79/output/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/vinay/Documents/EnergyAndMe/C:\\Users\\Jordan\\AndroidStudioProjects\\EnergyAndMe\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "/home/vinay/Documents/EnergyAndMe/C:\\Users\\Jordan\\.android\\build-cache\\6f23de812aad100cf13187f3c0c06ec7d214ace6\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
     }
 ]

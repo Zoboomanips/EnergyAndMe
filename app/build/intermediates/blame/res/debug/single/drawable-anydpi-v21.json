@@ -1,10 +1,18 @@
 [
     {
-        "merged": "C:\\Users\\Jordan\\AndroidStudioProjects\\EnergyAndMe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
-        "source": "C:\\Users\\Jordan\\.android\\build-cache\\6f23de812aad100cf13187f3c0c06ec7d214ace6\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+        "merged": "/home/vinay/Documents/EnergyAndMe/C:\\Users\\Jordan\\AndroidStudioProjects\\EnergyAndMe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "/home/vinay/Documents/EnergyAndMe/C:\\Users\\Jordan\\.android\\build-cache\\6f23de812aad100cf13187f3c0c06ec7d214ace6\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
     },
     {
-        "merged": "C:\\Users\\Jordan\\AndroidStudioProjects\\EnergyAndMe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
-        "source": "C:\\Users\\Jordan\\.android\\build-cache\\6f23de812aad100cf13187f3c0c06ec7d214ace6\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+        "merged": "/home/vinay/Documents/EnergyAndMe/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/vinay/.android/build-cache/00fa7ce790e51f06b390377c9b56d6396c6dac79/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/home/vinay/Documents/EnergyAndMe/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/vinay/.android/build-cache/00fa7ce790e51f06b390377c9b56d6396c6dac79/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/vinay/Documents/EnergyAndMe/C:\\Users\\Jordan\\AndroidStudioProjects\\EnergyAndMe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "/home/vinay/Documents/EnergyAndMe/C:\\Users\\Jordan\\.android\\build-cache\\6f23de812aad100cf13187f3c0c06ec7d214ace6\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
     }
 ]

@@ -1,111 +1,119 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Jordan\AndroidStudioProjects\EnergyAndMe\app\src\main\AndroidManifest.xml:2:1-28:12
+ADDED from /home/vinay/Documents/EnergyAndMe/app/src/main/AndroidManifest.xml:2:1-30:12
 	package
-		ADDED from C:\Users\Jordan\AndroidStudioProjects\EnergyAndMe\app\src\main\AndroidManifest.xml:3:5-40
-		INJECTED from C:\Users\Jordan\AndroidStudioProjects\EnergyAndMe\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Jordan\AndroidStudioProjects\EnergyAndMe\app\src\main\AndroidManifest.xml
+		ADDED from /home/vinay/Documents/EnergyAndMe/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /home/vinay/Documents/EnergyAndMe/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vinay/Documents/EnergyAndMe/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Jordan\AndroidStudioProjects\EnergyAndMe\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Jordan\AndroidStudioProjects\EnergyAndMe\app\src\main\AndroidManifest.xml
+		INJECTED from /home/vinay/Documents/EnergyAndMe/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vinay/Documents/EnergyAndMe/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Jordan\AndroidStudioProjects\EnergyAndMe\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from /home/vinay/Documents/EnergyAndMe/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from C:\Users\Jordan\AndroidStudioProjects\EnergyAndMe\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Jordan\AndroidStudioProjects\EnergyAndMe\app\src\main\AndroidManifest.xml
+		INJECTED from /home/vinay/Documents/EnergyAndMe/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vinay/Documents/EnergyAndMe/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Jordan\AndroidStudioProjects\EnergyAndMe\app\src\main\AndroidManifest.xml:5:5-67
+ADDED from /home/vinay/Documents/EnergyAndMe/app/src/main/AndroidManifest.xml:5:5-67
 	android:name
-		ADDED from C:\Users\Jordan\AndroidStudioProjects\EnergyAndMe\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from /home/vinay/Documents/EnergyAndMe/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/vinay/Documents/EnergyAndMe/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /home/vinay/Documents/EnergyAndMe/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/vinay/Documents/EnergyAndMe/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /home/vinay/Documents/EnergyAndMe/app/src/main/AndroidManifest.xml:7:22-78
 application
-ADDED from C:\Users\Jordan\AndroidStudioProjects\EnergyAndMe\app\src\main\AndroidManifest.xml:7:5-26:19
-MERGED from [com.android.support:design:25.3.1] C:\Users\Jordan\.android\build-cache\6f23de812aad100cf13187f3c0c06ec7d214ace6\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Jordan\.android\build-cache\64fa9e132d58faeef31f252f2eeaeed770c6f806\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Jordan\.android\build-cache\245be2f479516e12d4417af036fb45bbf5ea2b46\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Jordan\.android\build-cache\29c21c9abf5568a2dd42680266b089551746a31c\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:transition:25.3.1] C:\Users\Jordan\.android\build-cache\a86ed20cb8a34e8f6f7d43e600c8e266fa5c2140\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Jordan\.android\build-cache\7af294b1c3bbb77740fa469699046b748b24354c\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Jordan\.android\build-cache\27db568a41151e69db4ba3f133c218472dfb92cd\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Jordan\.android\build-cache\3a37823df5db1013ad1943c3f84e3da6cb34308b\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Jordan\.android\build-cache\1dc8f0a98c9ad9f2d35a968df38509fe95f8c6a2\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Jordan\.android\build-cache\de92a0058521655c0b7a468d43095aa922d63018\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Jordan\.android\build-cache\636dfbd80d7a1c229bc038d0d88dd8994e96d5ae\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Jordan\.android\build-cache\2a25849acbc7b93f3fe3f7e827bcb2dea6953494\output\AndroidManifest.xml:9:5-20
+ADDED from /home/vinay/Documents/EnergyAndMe/app/src/main/AndroidManifest.xml:9:5-28:19
+MERGED from [com.android.support:design:25.3.1] /home/vinay/.android/build-cache/00fa7ce790e51f06b390377c9b56d6396c6dac79/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/vinay/.android/build-cache/4b054076177d2e04b547faec323b04d358af45f7/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/vinay/.android/build-cache/a8f5afe8c0f52b87722eee6410fa564360c77c82/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/vinay/.android/build-cache/c05f77cd02d8d0ee0b5eb9ab8c13ccc12308bd93/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/vinay/.android/build-cache/2b965fd07955641b2c5e1f91932c3ed04d1af976/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/vinay/.android/build-cache/558a3ebb369d1e2422076d64c2a4b161cad59bc0/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/vinay/.android/build-cache/68cfa9ec27198fd81b5bae50defa664df872094f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/vinay/.android/build-cache/aee404f5ce012a0c5e2db37d93edc9a13376409b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/vinay/.android/build-cache/5806917118efd6b387b5195a8abe8ec646ceee8e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/vinay/.android/build-cache/00c8b7c6047d16fb8ed59d182b246a1c2c89f97f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/vinay/.android/build-cache/d76feb76156488b57c71a778a8d48b607dbb6a4f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/vinay/.android/build-cache/220951991eae25d1819b977b37a45abec8ddb76d/output/AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from C:\Users\Jordan\AndroidStudioProjects\EnergyAndMe\app\src\main\AndroidManifest.xml:10:9-41
+		ADDED from /home/vinay/Documents/EnergyAndMe/app/src/main/AndroidManifest.xml:12:9-41
 	android:supportsRtl
-		ADDED from C:\Users\Jordan\AndroidStudioProjects\EnergyAndMe\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from /home/vinay/Documents/EnergyAndMe/app/src/main/AndroidManifest.xml:14:9-35
 	android:roundIcon
-		ADDED from C:\Users\Jordan\AndroidStudioProjects\EnergyAndMe\app\src\main\AndroidManifest.xml:11:9-54
+		ADDED from /home/vinay/Documents/EnergyAndMe/app/src/main/AndroidManifest.xml:13:9-54
 	android:allowBackup
-		ADDED from C:\Users\Jordan\AndroidStudioProjects\EnergyAndMe\app\src\main\AndroidManifest.xml:8:9-35
+		ADDED from /home/vinay/Documents/EnergyAndMe/app/src/main/AndroidManifest.xml:10:9-35
 	android:icon
-		ADDED from C:\Users\Jordan\AndroidStudioProjects\EnergyAndMe\app\src\main\AndroidManifest.xml:9:9-43
+		ADDED from /home/vinay/Documents/EnergyAndMe/app/src/main/AndroidManifest.xml:11:9-43
 	android:theme
-		ADDED from C:\Users\Jordan\AndroidStudioProjects\EnergyAndMe\app\src\main\AndroidManifest.xml:13:9-40
+		ADDED from /home/vinay/Documents/EnergyAndMe/app/src/main/AndroidManifest.xml:15:9-40
 activity#bearsinchairs.energyandme.MainActivity
-ADDED from C:\Users\Jordan\AndroidStudioProjects\EnergyAndMe\app\src\main\AndroidManifest.xml:14:9-23:20
+ADDED from /home/vinay/Documents/EnergyAndMe/app/src/main/AndroidManifest.xml:16:9-25:20
 	android:label
-		ADDED from C:\Users\Jordan\AndroidStudioProjects\EnergyAndMe\app\src\main\AndroidManifest.xml:16:13-45
+		ADDED from /home/vinay/Documents/EnergyAndMe/app/src/main/AndroidManifest.xml:18:13-45
 	android:theme
-		ADDED from C:\Users\Jordan\AndroidStudioProjects\EnergyAndMe\app\src\main\AndroidManifest.xml:17:13-56
+		ADDED from /home/vinay/Documents/EnergyAndMe/app/src/main/AndroidManifest.xml:19:13-56
 	android:name
-		ADDED from C:\Users\Jordan\AndroidStudioProjects\EnergyAndMe\app\src\main\AndroidManifest.xml:15:13-41
+		ADDED from /home/vinay/Documents/EnergyAndMe/app/src/main/AndroidManifest.xml:17:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Jordan\AndroidStudioProjects\EnergyAndMe\app\src\main\AndroidManifest.xml:18:13-22:29
+ADDED from /home/vinay/Documents/EnergyAndMe/app/src/main/AndroidManifest.xml:20:13-24:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Jordan\AndroidStudioProjects\EnergyAndMe\app\src\main\AndroidManifest.xml:19:17-69
+ADDED from /home/vinay/Documents/EnergyAndMe/app/src/main/AndroidManifest.xml:21:17-69
 	android:name
-		ADDED from C:\Users\Jordan\AndroidStudioProjects\EnergyAndMe\app\src\main\AndroidManifest.xml:19:25-66
+		ADDED from /home/vinay/Documents/EnergyAndMe/app/src/main/AndroidManifest.xml:21:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Jordan\AndroidStudioProjects\EnergyAndMe\app\src\main\AndroidManifest.xml:21:17-77
+ADDED from /home/vinay/Documents/EnergyAndMe/app/src/main/AndroidManifest.xml:23:17-77
 	android:name
-		ADDED from C:\Users\Jordan\AndroidStudioProjects\EnergyAndMe\app\src\main\AndroidManifest.xml:21:27-74
+		ADDED from /home/vinay/Documents/EnergyAndMe/app/src/main/AndroidManifest.xml:23:27-74
 activity#bearsinchairs.energyandme.Node1Info
-ADDED from C:\Users\Jordan\AndroidStudioProjects\EnergyAndMe\app\src\main\AndroidManifest.xml:24:9-47
+ADDED from /home/vinay/Documents/EnergyAndMe/app/src/main/AndroidManifest.xml:26:9-47
 	android:name
-		ADDED from C:\Users\Jordan\AndroidStudioProjects\EnergyAndMe\app\src\main\AndroidManifest.xml:24:19-44
+		ADDED from /home/vinay/Documents/EnergyAndMe/app/src/main/AndroidManifest.xml:26:19-44
 activity#bearsinchairs.energyandme.Node2Info
-ADDED from C:\Users\Jordan\AndroidStudioProjects\EnergyAndMe\app\src\main\AndroidManifest.xml:25:9-56
+ADDED from /home/vinay/Documents/EnergyAndMe/app/src/main/AndroidManifest.xml:27:9-56
 	android:name
-		ADDED from C:\Users\Jordan\AndroidStudioProjects\EnergyAndMe\app\src\main\AndroidManifest.xml:25:19-44
+		ADDED from /home/vinay/Documents/EnergyAndMe/app/src/main/AndroidManifest.xml:27:19-44
 uses-sdk
-INJECTED from C:\Users\Jordan\AndroidStudioProjects\EnergyAndMe\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:design:25.3.1] C:\Users\Jordan\.android\build-cache\6f23de812aad100cf13187f3c0c06ec7d214ace6\output\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Jordan\.android\build-cache\64fa9e132d58faeef31f252f2eeaeed770c6f806\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Jordan\.android\build-cache\245be2f479516e12d4417af036fb45bbf5ea2b46\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Jordan\.android\build-cache\29c21c9abf5568a2dd42680266b089551746a31c\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Jordan\.android\build-cache\c426417643b7c6b00c616383bc96070f3fd101f1\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.3.1] C:\Users\Jordan\.android\build-cache\a86ed20cb8a34e8f6f7d43e600c8e266fa5c2140\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Jordan\.android\build-cache\7af294b1c3bbb77740fa469699046b748b24354c\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Jordan\.android\build-cache\27db568a41151e69db4ba3f133c218472dfb92cd\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Jordan\.android\build-cache\3a37823df5db1013ad1943c3f84e3da6cb34308b\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Jordan\.android\build-cache\1dc8f0a98c9ad9f2d35a968df38509fe95f8c6a2\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Jordan\.android\build-cache\de92a0058521655c0b7a468d43095aa922d63018\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Jordan\.android\build-cache\636dfbd80d7a1c229bc038d0d88dd8994e96d5ae\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Jordan\.android\build-cache\2a25849acbc7b93f3fe3f7e827bcb2dea6953494\output\AndroidManifest.xml:5:5-7:41
+INJECTED from /home/vinay/Documents/EnergyAndMe/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] /home/vinay/.android/build-cache/00fa7ce790e51f06b390377c9b56d6396c6dac79/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/vinay/.android/build-cache/4b054076177d2e04b547faec323b04d358af45f7/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/vinay/.android/build-cache/a8f5afe8c0f52b87722eee6410fa564360c77c82/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/vinay/.android/build-cache/c05f77cd02d8d0ee0b5eb9ab8c13ccc12308bd93/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/vinay/.android/build-cache/e09a5c97bdd6d97fb4c4b8d355988e8b38cf38f1/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /home/vinay/.android/build-cache/2b965fd07955641b2c5e1f91932c3ed04d1af976/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /home/vinay/.android/build-cache/558a3ebb369d1e2422076d64c2a4b161cad59bc0/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/vinay/.android/build-cache/68cfa9ec27198fd81b5bae50defa664df872094f/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/vinay/.android/build-cache/aee404f5ce012a0c5e2db37d93edc9a13376409b/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/vinay/.android/build-cache/5806917118efd6b387b5195a8abe8ec646ceee8e/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/vinay/.android/build-cache/00c8b7c6047d16fb8ed59d182b246a1c2c89f97f/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /home/vinay/.android/build-cache/d76feb76156488b57c71a778a8d48b607dbb6a4f/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/vinay/.android/build-cache/220951991eae25d1819b977b37a45abec8ddb76d/output/AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.3.1] C:\Users\Jordan\.android\build-cache\6f23de812aad100cf13187f3c0c06ec7d214ace6\output\AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:25.3.1] /home/vinay/.android/build-cache/00fa7ce790e51f06b390377c9b56d6396c6dac79/output/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from C:\Users\Jordan\AndroidStudioProjects\EnergyAndMe\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Jordan\AndroidStudioProjects\EnergyAndMe\app\src\main\AndroidManifest.xml
+		INJECTED from /home/vinay/Documents/EnergyAndMe/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vinay/Documents/EnergyAndMe/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Jordan\AndroidStudioProjects\EnergyAndMe\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Jordan\AndroidStudioProjects\EnergyAndMe\app\src\main\AndroidManifest.xml
+		INJECTED from /home/vinay/Documents/EnergyAndMe/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vinay/Documents/EnergyAndMe/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:25.3.1] C:\Users\Jordan\.android\build-cache\6f23de812aad100cf13187f3c0c06ec7d214ace6\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Jordan\.android\build-cache\64fa9e132d58faeef31f252f2eeaeed770c6f806\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Jordan\.android\build-cache\245be2f479516e12d4417af036fb45bbf5ea2b46\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Jordan\.android\build-cache\29c21c9abf5568a2dd42680266b089551746a31c\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Jordan\.android\build-cache\c426417643b7c6b00c616383bc96070f3fd101f1\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:transition:25.3.1] C:\Users\Jordan\.android\build-cache\a86ed20cb8a34e8f6f7d43e600c8e266fa5c2140\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Jordan\.android\build-cache\7af294b1c3bbb77740fa469699046b748b24354c\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Jordan\.android\build-cache\27db568a41151e69db4ba3f133c218472dfb92cd\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Jordan\.android\build-cache\3a37823df5db1013ad1943c3f84e3da6cb34308b\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Jordan\.android\build-cache\1dc8f0a98c9ad9f2d35a968df38509fe95f8c6a2\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Jordan\.android\build-cache\de92a0058521655c0b7a468d43095aa922d63018\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Jordan\.android\build-cache\636dfbd80d7a1c229bc038d0d88dd8994e96d5ae\output\AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:design:25.3.1] /home/vinay/.android/build-cache/00fa7ce790e51f06b390377c9b56d6396c6dac79/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/vinay/.android/build-cache/4b054076177d2e04b547faec323b04d358af45f7/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/vinay/.android/build-cache/a8f5afe8c0f52b87722eee6410fa564360c77c82/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/vinay/.android/build-cache/c05f77cd02d8d0ee0b5eb9ab8c13ccc12308bd93/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/vinay/.android/build-cache/e09a5c97bdd6d97fb4c4b8d355988e8b38cf38f1/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /home/vinay/.android/build-cache/2b965fd07955641b2c5e1f91932c3ed04d1af976/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/vinay/.android/build-cache/558a3ebb369d1e2422076d64c2a4b161cad59bc0/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/vinay/.android/build-cache/68cfa9ec27198fd81b5bae50defa664df872094f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/vinay/.android/build-cache/aee404f5ce012a0c5e2db37d93edc9a13376409b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/vinay/.android/build-cache/5806917118efd6b387b5195a8abe8ec646ceee8e/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/vinay/.android/build-cache/00c8b7c6047d16fb8ed59d182b246a1c2c89f97f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/vinay/.android/build-cache/d76feb76156488b57c71a778a8d48b607dbb6a4f/output/AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:design:25.3.1] C:\Users\Jordan\.android\build-cache\6f23de812aad100cf13187f3c0c06ec7d214ace6\output\AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:design:25.3.1] /home/vinay/.android/build-cache/00fa7ce790e51f06b390377c9b56d6396c6dac79/output/AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:design:25.3.1] C:\Users\Jordan\.android\build-cache\6f23de812aad100cf13187f3c0c06ec7d214ace6\output\AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:design:25.3.1] /home/vinay/.android/build-cache/00fa7ce790e51f06b390377c9b56d6396c6dac79/output/AndroidManifest.xml:26:9-47

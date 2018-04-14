@@ -1,10 +1,18 @@
 [
     {
-        "merged": "C:\\Users\\Jordan\\AndroidStudioProjects\\EnergyAndMe\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "C:\\Users\\Jordan\\.android\\build-cache\\64fa9e132d58faeef31f252f2eeaeed770c6f806\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+        "merged": "/home/vinay/Documents/EnergyAndMe/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/vinay/.android/build-cache/4b054076177d2e04b547faec323b04d358af45f7/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Jordan\\AndroidStudioProjects\\EnergyAndMe\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
-        "source": "C:\\Users\\Jordan\\.android\\build-cache\\64fa9e132d58faeef31f252f2eeaeed770c6f806\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+        "merged": "/home/vinay/Documents/EnergyAndMe/C:\\Users\\Jordan\\AndroidStudioProjects\\EnergyAndMe\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/vinay/Documents/EnergyAndMe/C:\\Users\\Jordan\\.android\\build-cache\\64fa9e132d58faeef31f252f2eeaeed770c6f806\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/vinay/Documents/EnergyAndMe/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/vinay/.android/build-cache/4b054076177d2e04b547faec323b04d358af45f7/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/vinay/Documents/EnergyAndMe/C:\\Users\\Jordan\\AndroidStudioProjects\\EnergyAndMe\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/vinay/Documents/EnergyAndMe/C:\\Users\\Jordan\\.android\\build-cache\\64fa9e132d58faeef31f252f2eeaeed770c6f806\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
     }
 ]

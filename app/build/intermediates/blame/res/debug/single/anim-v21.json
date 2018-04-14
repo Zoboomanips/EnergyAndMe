@@ -1,10 +1,18 @@
 [
     {
-        "merged": "C:\\Users\\Jordan\\AndroidStudioProjects\\EnergyAndMe\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
-        "source": "C:\\Users\\Jordan\\.android\\build-cache\\6f23de812aad100cf13187f3c0c06ec7d214ace6\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+        "merged": "/home/vinay/Documents/EnergyAndMe/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/vinay/.android/build-cache/00fa7ce790e51f06b390377c9b56d6396c6dac79/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
     },
     {
-        "merged": "C:\\Users\\Jordan\\AndroidStudioProjects\\EnergyAndMe\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
-        "source": "C:\\Users\\Jordan\\.android\\build-cache\\6f23de812aad100cf13187f3c0c06ec7d214ace6\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+        "merged": "/home/vinay/Documents/EnergyAndMe/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/vinay/.android/build-cache/00fa7ce790e51f06b390377c9b56d6396c6dac79/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/vinay/Documents/EnergyAndMe/C:\\Users\\Jordan\\AndroidStudioProjects\\EnergyAndMe\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "/home/vinay/Documents/EnergyAndMe/C:\\Users\\Jordan\\.android\\build-cache\\6f23de812aad100cf13187f3c0c06ec7d214ace6\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/vinay/Documents/EnergyAndMe/C:\\Users\\Jordan\\AndroidStudioProjects\\EnergyAndMe\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "/home/vinay/Documents/EnergyAndMe/C:\\Users\\Jordan\\.android\\build-cache\\6f23de812aad100cf13187f3c0c06ec7d214ace6\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
     }
 ]
