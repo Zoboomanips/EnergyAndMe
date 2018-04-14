@@ -30,13 +30,13 @@ public class Node1Info extends AppCompatActivity {
     }
 
     protected void onStart(Bundle savedInstanceState) throws IOException{
-        msg = "api/getdcpower/0";
+        msg = "api/turnon/6";
         buf = msg.getBytes();
         DatagramSocket socket = new DatagramSocket();
         DatagramPacket packet = new DatagramPacket(buf, buf.length,
                 add, port);
         socket.send(packet);
-        
+
 
     }
 }

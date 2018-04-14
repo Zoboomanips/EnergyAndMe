@@ -81,14 +81,13 @@ public class MainActivity extends AppCompatActivity
         int id = item.getItemId();
 
         if (id == R.id.node1) {
-            // Handle the camera action
+            Intent myIntent = new Intent(MainActivity.this, Node1Info.class);
+            startActivity(myIntent);
         } else if (id == R.id.node2) {
 
         } else if (id == R.id.node3) {
 
         } else if (id == R.id.node4) {
-
-        } else if (id == R.id.nav_send) {
 
         }
 
