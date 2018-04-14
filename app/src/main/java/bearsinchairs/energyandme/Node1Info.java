@@ -4,10 +4,8 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.*;
-
 import org.json.JSONException;
 import org.json.JSONObject;
-
 
 import java.io.IOException;
 import java.net.DatagramPacket;
@@ -71,7 +69,9 @@ public class Node1Info extends AppCompatActivity {
         socket.receive(packet);
         String received = new String(packet.getData(), 0, packet.getLength());
         JSONObject reader = new JSONObject(received);
-        double val = reader.getDouble("VALUE");
+        String valStu = String.valueOf(reader.get("VALUE"));
+        valStu = valStu.substring(1, valStu.length() - 1);
+        double val = Double.valueOf(valStu);
         return val;
     }
 
@@ -81,7 +81,7 @@ public class Node1Info extends AppCompatActivity {
         } catch (IOException e) { } catch (JSONException e) { power1 = 69; }
         TextView powerV = (TextView) findViewById(R.id.powerView);
         powerV.setText("Power: " + power1);
-        /*try {
+        try {
             energy1 = ping("getdcenergy", nod);
         } catch (IOException e) { } catch (JSONException e) { }
         TextView energyV = (TextView) findViewById(R.id.energyView);
@@ -100,6 +100,6 @@ public class Node1Info extends AppCompatActivity {
             voltage1 = ping("getdcvoltage", nod);
         } catch (IOException e) { } catch (JSONException e) { }
         TextView volV = (TextView) findViewById(R.id.voltageView);
-        volV.setText("Voltage: " + voltage1);*/
+        volV.setText("Voltage: " + voltage1);
     }
 }

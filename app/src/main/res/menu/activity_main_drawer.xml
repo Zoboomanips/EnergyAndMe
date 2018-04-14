@@ -22,11 +22,11 @@
             android:id="@+id/node6"
             android:title="Node 6" />
         <item
-            android:id="@+id/node1"
-            android:title="Node 1" />
+            android:id="@+id/node7"
+            android:title="Node 7" />
+        <item
+            android:id="@+id/node8"
+            android:title="Node 8" />
     </group>
-    <item
-        android:id="@+id/node8"
-        android:title="Node 8" />
 
 </menu>
