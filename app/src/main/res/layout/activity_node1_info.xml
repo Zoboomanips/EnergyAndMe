@@ -6,4 +6,23 @@
     android:layout_height="match_parent"
     tools:context="bearsinchairs.energyandme.Node1Info">
 
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="turnOn"
+        android:text="Turn On"
+        tools:layout_editor_absoluteX="137dp"
+        tools:layout_editor_absoluteY="132dp" />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Name"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="248dp" />
 </android.support.constraint.ConstraintLayout>
