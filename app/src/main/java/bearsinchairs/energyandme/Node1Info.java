@@ -2,12 +2,16 @@ package bearsinchairs.energyandme;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
-import android.util.JsonReader;
 import android.view.View;
 
+import org.json.JSONException;
+import org.json.JSONObject;
+
 import java.io.IOException;
-import java.net.*;
-import org.json.*;
+import java.net.DatagramPacket;
+import java.net.DatagramSocket;
+import java.net.InetAddress;
+import java.net.UnknownHostException;
 
 public class Node1Info extends AppCompatActivity {
 
@@ -49,6 +53,7 @@ public class Node1Info extends AppCompatActivity {
         socket.receive(packet);
         String received = new String(packet.getData(), 0, packet.getLength());
         JSONObject reader = new JSONObject(received);
-
+        double val = reader.getDouble("VALUE");
+        return val;
     }
 }
