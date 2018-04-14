@@ -7,6 +7,7 @@ import java.io.IOException;
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;
 import java.net.InetAddress;
+import java.net.UnknownHostException;
 
 public class Node1Info extends AppCompatActivity {
 
@@ -21,7 +22,11 @@ public class Node1Info extends AppCompatActivity {
         setContentView(R.layout.activity_node1_info);
         power1 = 0;
         port = 9331;
-        add = InetAddress.getByName("192.168.1.207");
+        try {
+            add = InetAddress.getByName("192.168.1.207");
+        } catch (UnknownHostException e) {
+
+        }
     }
 
     protected void onStart(Bundle savedInstanceState) throws IOException{
@@ -31,6 +36,7 @@ public class Node1Info extends AppCompatActivity {
         DatagramPacket packet = new DatagramPacket(buf, buf.length,
                 add, port);
         socket.send(packet);
+        
 
     }
 }
