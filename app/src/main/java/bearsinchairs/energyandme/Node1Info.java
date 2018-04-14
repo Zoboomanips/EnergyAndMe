@@ -5,10 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
 import java.io.IOException;
-import java.net.DatagramPacket;
-import java.net.DatagramSocket;
-import java.net.InetAddress;
-import java.net.UnknownHostException;
+import java.net.*;
 
 public class Node1Info extends AppCompatActivity {
 
@@ -23,11 +20,6 @@ public class Node1Info extends AppCompatActivity {
         setContentView(R.layout.activity_node1_info);
         power1 = 0;
         port = 9931;
-        try {
-            add = InetAddress.getByName("192.168.1.207");
-        } catch (UnknownHostException e) {
-
-        }
 
     }
 
@@ -41,6 +33,7 @@ public class Node1Info extends AppCompatActivity {
     }*/
 
     public void turnOn (View view) throws IOException {
+        add = InetAddress.getByName("192.168.1.207");
         msg = "api/turnon/6";
         buf = msg.getBytes();
         DatagramSocket socket = new DatagramSocket();
