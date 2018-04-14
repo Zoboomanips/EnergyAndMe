@@ -38,9 +38,11 @@
         android:id="@+id/powerView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginTop="36dp"
         android:text="TextView"
-        tools:layout_editor_absoluteX="163dp"
-        tools:layout_editor_absoluteY="128dp" />
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button" />
 
     <TextView
         android:id="@+id/energyView"
@@ -83,14 +85,13 @@
         app:layout_constraintTop_toBottomOf="@+id/chargeView" />
 
     <Button
-        android:id="@+id/update"
-        android:layout_width="0dp"
+        android:id="@+id/updateButton"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="80dp"
-        android:onClick="update"
+        android:layout_marginTop="88dp"
+        android:onClick="updateBut"
         android:text="Update Values"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/voltageView" />
 

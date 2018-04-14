@@ -35,7 +35,7 @@ public class Node1Info extends AppCompatActivity {
         } catch (UnknownHostException e) {
             e.printStackTrace();
         }
-        update();
+        updateVal();
     }
 
     public void turnOn (View view) throws IOException {
@@ -54,6 +54,10 @@ public class Node1Info extends AppCompatActivity {
         DatagramPacket packet = new DatagramPacket(buf, buf.length,
                 add, port);
         socket.send(packet);
+    }
+
+    public void updateBut (View view) {
+        updateVal();
     }
 
     public double ping(String ins, int node) throws IOException, JSONException {
@@ -75,7 +79,7 @@ public class Node1Info extends AppCompatActivity {
         return val;
     }
 
-    public void update(){
+    public void updateVal(){
         try {
             power1 = ping("getdcpower", nod);
         } catch (IOException e) { } catch (JSONException e) { power1 = 69; }
