@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\Patrick\\Documents\\GitHub\\EnergyAndMe\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Patrick\\.android\\build-cache\\91dcc1fc0c768bfb341b461a0dc8fb60c0bbf85d\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrick\\Documents\\GitHub\\EnergyAndMe\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Patrick\\.android\\build-cache\\91dcc1fc0c768bfb341b461a0dc8fb60c0bbf85d\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrick\\Documents\\GitHub\\EnergyAndMe\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Patrick\\.android\\build-cache\\91dcc1fc0c768bfb341b461a0dc8fb60c0bbf85d\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrick\\Documents\\GitHub\\EnergyAndMe\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Patrick\\.android\\build-cache\\9dc82c5e18b4a9dad3adff6d76ec99ce79dd52bb\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrick\\Documents\\GitHub\\EnergyAndMe\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\Patrick\\.android\\build-cache\\9dc82c5e18b4a9dad3adff6d76ec99ce79dd52bb\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrick\\Documents\\GitHub\\EnergyAndMe\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Patrick\\.android\\build-cache\\9dc82c5e18b4a9dad3adff6d76ec99ce79dd52bb\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrick\\Documents\\GitHub\\EnergyAndMe\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\Patrick\\.android\\build-cache\\9dc82c5e18b4a9dad3adff6d76ec99ce79dd52bb\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrick\\Documents\\GitHub\\EnergyAndMe\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Patrick\\.android\\build-cache\\91dcc1fc0c768bfb341b461a0dc8fb60c0bbf85d\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrick\\Documents\\GitHub\\EnergyAndMe\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Patrick\\.android\\build-cache\\91dcc1fc0c768bfb341b461a0dc8fb60c0bbf85d\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrick\\Documents\\GitHub\\EnergyAndMe\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Patrick\\.android\\build-cache\\91dcc1fc0c768bfb341b461a0dc8fb60c0bbf85d\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrick\\Documents\\GitHub\\EnergyAndMe\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Patrick\\.android\\build-cache\\91dcc1fc0c768bfb341b461a0dc8fb60c0bbf85d\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrick\\Documents\\GitHub\\EnergyAndMe\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Patrick\\.android\\build-cache\\9dc82c5e18b4a9dad3adff6d76ec99ce79dd52bb\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrick\\Documents\\GitHub\\EnergyAndMe\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Patrick\\.android\\build-cache\\91dcc1fc0c768bfb341b461a0dc8fb60c0bbf85d\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrick\\Documents\\GitHub\\EnergyAndMe\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Patrick\\.android\\build-cache\\9dc82c5e18b4a9dad3adff6d76ec99ce79dd52bb\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrick\\Documents\\GitHub\\EnergyAndMe\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Patrick\\.android\\build-cache\\91dcc1fc0c768bfb341b461a0dc8fb60c0bbf85d\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrick\\Documents\\GitHub\\EnergyAndMe\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Patrick\\.android\\build-cache\\91dcc1fc0c768bfb341b461a0dc8fb60c0bbf85d\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    }
+]

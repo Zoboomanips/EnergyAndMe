@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Patrick\Documents\GitHub\EnergyAndMe\app\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from C:\Users\Patrick\Documents\GitHub\EnergyAndMe\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\Patrick\Documents\GitHub\EnergyAndMe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Patrick\Documents\GitHub\EnergyAndMe\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Patrick\Documents\GitHub\EnergyAndMe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Patrick\Documents\GitHub\EnergyAndMe\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Patrick\Documents\GitHub\EnergyAndMe\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Patrick\Documents\GitHub\EnergyAndMe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Patrick\Documents\GitHub\EnergyAndMe\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Patrick\Documents\GitHub\EnergyAndMe\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\Patrick\Documents\GitHub\EnergyAndMe\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\Patrick\Documents\GitHub\EnergyAndMe\app\src\main\AndroidManifest.xml:7:5-29:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\Patrick\.android\build-cache\9dc82c5e18b4a9dad3adff6d76ec99ce79dd52bb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Patrick\.android\build-cache\91dcc1fc0c768bfb341b461a0dc8fb60c0bbf85d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Patrick\.android\build-cache\893a5a908a1f3eaabf1364947802282e303ff0c8\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Patrick\.android\build-cache\3b10092f9f69213ee230df7a436c42ee91a96ab7\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Patrick\.android\build-cache\60c157b5b6c794d34562d0e6bc69c733c99b0e37\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Patrick\.android\build-cache\e48f14717f1632e57a8caea811fe0f79fba185b1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Patrick\.android\build-cache\555ed9d961d70ea86baa183d77111c202e264c84\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Patrick\.android\build-cache\8702aca312ec1a0a34f8bba13de5b35c3b2f9033\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Patrick\.android\build-cache\a09e250d24cc9e903bd94b13b45ef1b837837c07\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Patrick\.android\build-cache\469b5e72df27c278db53d8fd052a770a59dfbfa6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Patrick\.android\build-cache\dd7f960a105047b7eb66e22874409dd1ab7ee12f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Patrick\.android\build-cache\d3a6c74b72bd2424a5f5b712df0b63526584b09f\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\Patrick\Documents\GitHub\EnergyAndMe\app\src\main\AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Patrick\Documents\GitHub\EnergyAndMe\app\src\main\AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from C:\Users\Patrick\Documents\GitHub\EnergyAndMe\app\src\main\AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from C:\Users\Patrick\Documents\GitHub\EnergyAndMe\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from C:\Users\Patrick\Documents\GitHub\EnergyAndMe\app\src\main\AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from C:\Users\Patrick\Documents\GitHub\EnergyAndMe\app\src\main\AndroidManifest.xml:13:9-40
+activity#bearsinchairs.energyandme.MainActivity
+ADDED from C:\Users\Patrick\Documents\GitHub\EnergyAndMe\app\src\main\AndroidManifest.xml:14:9-23:20
+	android:label
+		ADDED from C:\Users\Patrick\Documents\GitHub\EnergyAndMe\app\src\main\AndroidManifest.xml:16:13-45
+	android:theme
+		ADDED from C:\Users\Patrick\Documents\GitHub\EnergyAndMe\app\src\main\AndroidManifest.xml:17:13-56
+	android:name
+		ADDED from C:\Users\Patrick\Documents\GitHub\EnergyAndMe\app\src\main\AndroidManifest.xml:15:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Patrick\Documents\GitHub\EnergyAndMe\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Patrick\Documents\GitHub\EnergyAndMe\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\Patrick\Documents\GitHub\EnergyAndMe\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Patrick\Documents\GitHub\EnergyAndMe\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\Patrick\Documents\GitHub\EnergyAndMe\app\src\main\AndroidManifest.xml:21:27-74
+activity#bearsinchairs.energyandme.Node1Info
+ADDED from C:\Users\Patrick\Documents\GitHub\EnergyAndMe\app\src\main\AndroidManifest.xml:24:9-47
+	android:name
+		ADDED from C:\Users\Patrick\Documents\GitHub\EnergyAndMe\app\src\main\AndroidManifest.xml:24:19-44
+activity#bearsinchairs.energyandme.Node2
+ADDED from C:\Users\Patrick\Documents\GitHub\EnergyAndMe\app\src\main\AndroidManifest.xml:25:9-28:68
+	android:label
+		ADDED from C:\Users\Patrick\Documents\GitHub\EnergyAndMe\app\src\main\AndroidManifest.xml:27:13-57
+	android:theme
+		ADDED from C:\Users\Patrick\Documents\GitHub\EnergyAndMe\app\src\main\AndroidManifest.xml:28:13-56
+	android:name
+		ADDED from C:\Users\Patrick\Documents\GitHub\EnergyAndMe\app\src\main\AndroidManifest.xml:26:13-34
+uses-sdk
+INJECTED from C:\Users\Patrick\Documents\GitHub\EnergyAndMe\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] C:\Users\Patrick\.android\build-cache\9dc82c5e18b4a9dad3adff6d76ec99ce79dd52bb\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Patrick\.android\build-cache\91dcc1fc0c768bfb341b461a0dc8fb60c0bbf85d\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Patrick\.android\build-cache\893a5a908a1f3eaabf1364947802282e303ff0c8\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Patrick\.android\build-cache\3b10092f9f69213ee230df7a436c42ee91a96ab7\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Patrick\.android\build-cache\e863a6c50fbc603349a8f9dbdfbb925694f185fe\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Patrick\.android\build-cache\60c157b5b6c794d34562d0e6bc69c733c99b0e37\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Patrick\.android\build-cache\e48f14717f1632e57a8caea811fe0f79fba185b1\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Patrick\.android\build-cache\555ed9d961d70ea86baa183d77111c202e264c84\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Patrick\.android\build-cache\8702aca312ec1a0a34f8bba13de5b35c3b2f9033\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Patrick\.android\build-cache\a09e250d24cc9e903bd94b13b45ef1b837837c07\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Patrick\.android\build-cache\469b5e72df27c278db53d8fd052a770a59dfbfa6\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Patrick\.android\build-cache\dd7f960a105047b7eb66e22874409dd1ab7ee12f\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Patrick\.android\build-cache\d3a6c74b72bd2424a5f5b712df0b63526584b09f\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Patrick\.android\build-cache\9dc82c5e18b4a9dad3adff6d76ec99ce79dd52bb\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Patrick\Documents\GitHub\EnergyAndMe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Patrick\Documents\GitHub\EnergyAndMe\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Patrick\Documents\GitHub\EnergyAndMe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Patrick\Documents\GitHub\EnergyAndMe\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Patrick\.android\build-cache\9dc82c5e18b4a9dad3adff6d76ec99ce79dd52bb\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Patrick\.android\build-cache\91dcc1fc0c768bfb341b461a0dc8fb60c0bbf85d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Patrick\.android\build-cache\893a5a908a1f3eaabf1364947802282e303ff0c8\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Patrick\.android\build-cache\3b10092f9f69213ee230df7a436c42ee91a96ab7\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Patrick\.android\build-cache\e863a6c50fbc603349a8f9dbdfbb925694f185fe\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Patrick\.android\build-cache\60c157b5b6c794d34562d0e6bc69c733c99b0e37\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Patrick\.android\build-cache\e48f14717f1632e57a8caea811fe0f79fba185b1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Patrick\.android\build-cache\555ed9d961d70ea86baa183d77111c202e264c84\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Patrick\.android\build-cache\8702aca312ec1a0a34f8bba13de5b35c3b2f9033\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Patrick\.android\build-cache\a09e250d24cc9e903bd94b13b45ef1b837837c07\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Patrick\.android\build-cache\469b5e72df27c278db53d8fd052a770a59dfbfa6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Patrick\.android\build-cache\dd7f960a105047b7eb66e22874409dd1ab7ee12f\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Patrick\.android\build-cache\9dc82c5e18b4a9dad3adff6d76ec99ce79dd52bb\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Patrick\.android\build-cache\9dc82c5e18b4a9dad3adff6d76ec99ce79dd52bb\output\AndroidManifest.xml:26:9-47
