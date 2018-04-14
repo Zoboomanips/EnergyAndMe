@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/node1"
+            android:title="Node 1" />
+        <item
+            android:id="@+id/node2"
+            android:title="Node 2" />
+        <item
+            android:id="@+id/node3"
+            android:title="Node 3" />
+        <item
+            android:id="@+id/node4"
+            android:title="Node 4" />
+        <item
+            android:id="@+id/node5"
+            android:title="Node 5" />
+        <item
+            android:id="@+id/node6"
+            android:title="Node 6" />
+        <item
+            android:id="@+id/node7"
+            android:title="Node 7" />
+        <item
+            android:id="@+id/node8"
+            android:title="Node 8" />
+    </group>
+
+</menu>

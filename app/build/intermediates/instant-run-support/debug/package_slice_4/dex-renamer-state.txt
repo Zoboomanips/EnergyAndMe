@@ -1,0 +1,4 @@
+#Sat Apr 14 09:47:10 CDT 2018
+base.0=C\:\\Users\\Jordan\\AndroidStudioProjects\\EnergyAndMe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
+renamed.0=classes.dex
+file.0=C\:\\Users\\Jordan\\AndroidStudioProjects\\EnergyAndMe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex

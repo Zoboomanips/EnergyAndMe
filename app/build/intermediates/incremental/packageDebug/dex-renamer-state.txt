@@ -1,0 +1,7 @@
+#Sat Apr 14 16:35:45 CDT 2018
+base.0=C\:\\Users\\Jordan\\AndroidStudioProjects\\EnergyAndMe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_fb5a3a18362bf084db90ed9d5903cbe73047e7ac
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Jordan\\AndroidStudioProjects\\EnergyAndMe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0d5f4d1b7a800314742dd68eeddcb6e8df73447c\\classes.dex
+base.1=C\:\\Users\\Jordan\\AndroidStudioProjects\\EnergyAndMe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0d5f4d1b7a800314742dd68eeddcb6e8df73447c
+file.0=C\:\\Users\\Jordan\\AndroidStudioProjects\\EnergyAndMe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_fb5a3a18362bf084db90ed9d5903cbe73047e7ac\\classes.dex

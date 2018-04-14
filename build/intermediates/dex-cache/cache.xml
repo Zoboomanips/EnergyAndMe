@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jordan\.android\build-cache\a86ed20cb8a34e8f6f7d43e600c8e266fa5c2140\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Jordan\AndroidStudioProjects\EnergyAndMe\app\build\intermediates\pre-dexed\debug\classes_e2deca5201c64c1f202448189728555b2aa9d86f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jordan\AndroidStudioProjects\EnergyAndMe\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d2eb0912157fcd316760f2ee216218255b848c47">
+        <dex dex="C:\Users\Jordan\AndroidStudioProjects\EnergyAndMe\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_fb5a3a18362bf084db90ed9d5903cbe73047e7ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jordan\.android\build-cache\c426417643b7c6b00c616383bc96070f3fd101f1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Jordan\AndroidStudioProjects\EnergyAndMe\app\build\intermediates\pre-dexed\debug\classes_4138d656d8051d24c360066ba100a3d701eafbe8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jordan\AndroidStudioProjects\EnergyAndMe\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Jordan\AndroidStudioProjects\EnergyAndMe\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_0d5f4d1b7a800314742dd68eeddcb6e8df73447c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jordan\.android\build-cache\6f23de812aad100cf13187f3c0c06ec7d214ace6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Jordan\AndroidStudioProjects\EnergyAndMe\app\build\intermediates\pre-dexed\debug\classes_54b916c4c5efec53fbbc3c372a3e0a4eb4c4cd94.jar" />
+    </item>
+
+</items>

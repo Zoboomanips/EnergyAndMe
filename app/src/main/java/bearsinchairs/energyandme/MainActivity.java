@@ -82,10 +82,11 @@ public class MainActivity extends AppCompatActivity
         int id = item.getItemId();
 
         if (id == R.id.node1) {
-            Intent myIntent = new Intent(MainActivity.this, Node1Info.class);
-            startActivity(myIntent);
+            Intent intentNode1 = new Intent(MainActivity.this, Node1Info.class);
+            startActivity(intentNode1);
         } else if (id == R.id.node2) {
-
+            Intent intentNode2 = new Intent(MainActivity.this, Node2Info.class);
+            startActivity(intentNode2);
         } else if (id == R.id.node3) {
 
         } else if (id == R.id.node4) {
